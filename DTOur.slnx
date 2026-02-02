@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DTOur.Tests/DTOur.Tests.csproj" />
+  <Project Path="DTOur/DTOur.csproj" />
+</Solution>
